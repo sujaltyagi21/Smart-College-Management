@@ -1,0 +1,3 @@
+Main-Class: university.Login
+Implementation-Title: Smart College Management
+Implementation-Version: 1.0

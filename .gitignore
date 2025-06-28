@@ -1,0 +1,26 @@
+/build/
+nbproject/private/
+dist/
+*.class
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+*.log
+
+# Ignore generated files
+*.jar
+*.war
+*.ear
+
+# Ignore database files (if any)
+*.sql
+*.db
+
+# Optional: ignore settings or backup files
+*.bak
+*.swp
